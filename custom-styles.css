@@ -1,0 +1,7 @@
+/* Injecting custom branding for the MVP form */ .form-all { border-radius: 12px !important; box-shadow: 0 10px 30px rgba(0,0,0,0.1) !important; }
+
+.form-label { font-family: 'Inter', sans-serif !important; color: #1a202c !important; font-weight: 600 !important; }
+
+.form-submit-button { background: #FF6100 !important; transition: transform 0.2s ease; }
+
+.form-submit-button:hover { transform: translateY(-2px); filter: brightness(1.1); }
